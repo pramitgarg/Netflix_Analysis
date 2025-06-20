@@ -1,6 +1,7 @@
 This project explores the Netflix Movies and TV Shows dataset using Python, with a focus on data analysis and visualization. The goal is to derive meaningful insights about content trends, genres, countries, and more using Pandas and Matplotlib.
 
 📂 Dataset
+
 	•	Source: Kaggle - Netflix Titles Dataset
 	•	File: netflix_titles.csv
 	•	Size: ~7,800 rows
