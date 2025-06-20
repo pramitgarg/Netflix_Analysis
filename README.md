@@ -10,6 +10,7 @@ This project explores the Netflix Movies and TV Shows dataset using Python, with
 🔍 Objectives
 
 The key objectives of this project are:
+
 	•	Analyze the distribution of Movies vs TV Shows
 	•	Discover content trends over the years
 	•	Identify top genres and most active countries
